@@ -1,0 +1,6 @@
+[lfs]
+	url = http://localhost:8000
+[filter "lfs"]
+	url = https://lfs.example.com/foo/bar/info/lfs
+[remote "origin"]
+	url = https://lfs.example.com/foo/bar/info/lfs
